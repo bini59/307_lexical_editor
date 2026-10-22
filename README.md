@@ -67,13 +67,13 @@ EditorState → $generateHtmlFromNodes() → 각 노드의 exportDOM() → HTML 
 ### 1. 의존성 설치
 
 ```bash
-yarn install
+pnpm install
 ```
 
 ### 2. 개발 서버 실행
 
 ```bash
-yarn dev
+pnpm dev
 ```
 
 브라우저에서 `http://localhost:5173` 접속
@@ -81,7 +81,7 @@ yarn dev
 ### 3. 빌드
 
 ```bash
-yarn build
+pnpm build
 ```
 
 ## 📚 주요 기능
